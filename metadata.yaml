@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Volney
     - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
 description: Tome 7 des Œuvres de C.-F. Volney
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39811#Oeuvres-Tome-VIIinventeur-du-sacre-des-rois---tat-physique-de-la-Corse.
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2012-05-26'
 gutenberg_type: Text
