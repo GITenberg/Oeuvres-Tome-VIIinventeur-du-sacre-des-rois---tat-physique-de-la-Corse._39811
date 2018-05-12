@@ -1,0 +1,39 @@
+_repo: Oeuvres-Tome-VIIinventeur-du-sacre-des-rois---tat-physique-de-la-Corse._39811
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39811-h/images/cover-lg.jpg
+creator:
+  author:
+    agent_name: Volney, C.-F. (Constantin-François)
+    aliases:
+    - Volney, Constantin-François Chasseboeuf, comte de
+    - Volney, C.-F. (Constantin-Francois)
+    birthdate: 1757
+    deathdate: 1820
+    gutenberg_agent_id: '622'
+    url: http://www.gutenberg.org/2009/agents/622
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Volney
+    - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
+description: Tome 7 des Œuvres de C.-F. Volney
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2012-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39811'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Study and teaching -- France -- History -- 18th century'
+- !lcsh 'History -- Study and teaching'
+- !lcsh 'History'
+- !lcsh 'École normale de l''an III (France)'
+- !lcsh 'History -- Philosophy'
+- !lcc 'D'
+title: "Leçons d'histoire,\r\nprononcées à l'École normale; en l'an III de la République\
+  \ Française; Histoire de Samuel, inventeur du sacre des rois; État physique de la\
+  \ Corse."
+url: http://www.gutenberg.org/ebooks/39811
